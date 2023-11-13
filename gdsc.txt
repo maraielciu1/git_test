@@ -1,0 +1,4 @@
+Name: Mara
+Ocupation: Student at UBB
+Hobbies: painting
+Dislikes: Computational logic :)
